@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 你好，我是 FeJS8888！
+
+🎓 **学生 | 开发者**
+
+**技能：**  
+- C++  
+- JavaScript
+
+**代表项目：**  
+[FeEGELib](https://github.com/FeJS8888/FeEGELib) —— 我的开源图形引擎库
+
+---
+
+我热爱编程，乐于学习新知识，欢迎访问我的仓库或交流！
 
 <!--
-**FeJS8888/FeJS8888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+如果你想添加更多内容，比如学习方向、联系方式或座右铭，随时更新你的主页！
 -->
